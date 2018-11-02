@@ -1,0 +1,48 @@
+Stack
+Stack is FILO
+5
+150
+175
+Y
+Queue
+Queue is FIFO
+6
+175
+200
+N
+Hash Table
+Hash Table is hard to understand
+9
+300
+350
+Y
+Tree
+I like trees
+10
+350
+400
+Y
+Doubly Linked List
+DLL has two pointers for each node
+3
+100
+125
+Y
+Circular Linked List
+CLL has a rear pointer
+4
+125
+150
+N
+Ordered List
+The list is in order
+2
+75
+100
+Y
+Abstract Data Type
+ADTs can be created with class
+1
+50
+75
+Y
